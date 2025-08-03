@@ -10,3 +10,6 @@ wheels/
 .venv
 Lab3_StarterNB.Rmd
 Lab 3 NB Report.Rmd
+
+# Answer files
+lab_examples_answers.ipynb
